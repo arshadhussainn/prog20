@@ -14,5 +14,5 @@ jobs:
       - name: Run training
         run: python model.py
       - name: success message
-        run: echo "Training
+        run: echo "Training"
 
